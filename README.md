@@ -15,7 +15,7 @@ Feel free to connect with me. I am always open to discussing potential collabora
  - Worked on a **SPECTRUM : Semantic Processing and Emotion-informed video-Captioning Through Retrieval and Understanding Modalities**. 
  (submitted at IEEE Transaction on Image Processing)
 --------------------------
-• Shiraz University of Science and Technology (SUTECH), 2016–2020
+• Shiraz University of Technology (SUTECH), 2016–2020
  - Worked on a **Designed and implemented a real-time data receiver system with advanced monitoring features using LabVIEW**.
 ## INTERNSHIP EXPERIENCE    
 --------------------------
