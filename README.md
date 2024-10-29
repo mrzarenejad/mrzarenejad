@@ -24,7 +24,7 @@ Feel free to connect with me. I am always open to discussing potential collabora
     -	Purpose: Designed and implemented an intelligent integrated system for positional and environmental data monitoring in food industrial units and portable containers, optimized for low power consumption with the considration of accurate and realtime data transmition to server and indicate in user-friendly dashboard.
   -	**Design and Implementation of Scalable Database Architecture and RESTful APIs for Web Applications**:
     -	Purpose: Developed scalable database architecture and RESTful APIs for efficient data management and seamless front-end integration, focusing on performance, security, and maintainability.
-## RESEARCH INTREST                                                                                                                                                     ___
+## RESEARCH INTREST
 -------------------------- 
 -	Multi-Modal Large Models
 -	Image & Video Captioning
