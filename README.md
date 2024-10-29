@@ -20,26 +20,26 @@ Feel free to connect with me. I am always open to discussing potential collabora
 ## INTERNSHIP EXPERIENCE    
 --------------------------
 •	**Megamouj-e-Iranian Company**: Incubator Center of Iran University of Science and Technology          
-  •	**Positional and Environmental data Monitoring System**:
-    o	Purpose: Designed and implemented an intelligent integrated system for positional and environmental data monitoring in food industrial units and portable containers, optimized for low power consumption with the considration of accurate and realtime data transmition to server and indicate in user-friendly dashboard.
-  •	**Design and Implementation of Scalable Database Architecture and RESTful APIs for Web Applications**:
-    o	Purpose: Developed scalable database architecture and RESTful APIs for efficient data management and seamless front-end integration, focusing on performance, security, and maintainability.
+  -	**Positional and Environmental data Monitoring System**:
+    -	Purpose: Designed and implemented an intelligent integrated system for positional and environmental data monitoring in food industrial units and portable containers, optimized for low power consumption with the considration of accurate and realtime data transmition to server and indicate in user-friendly dashboard.
+  -	**Design and Implementation of Scalable Database Architecture and RESTful APIs for Web Applications**:
+    -	Purpose: Developed scalable database architecture and RESTful APIs for efficient data management and seamless front-end integration, focusing on performance, security, and maintainability.
 ## RESEARCH INTREST                                                                                                                                                     ___
 -------------------------- 
-•	Multi-Modal Large Models
-•	Image & Video Captioning
-•	Generative AI
-•	Natural Language Processing
-•	Explainable AI
-•	Applied Machine Learning
-•	Software Development
-•	Embedded Systems
+-	Multi-Modal Large Models
+-	Image & Video Captioning
+-	Generative AI
+-	Natural Language Processing
+-	Explainable AI
+-	Applied Machine Learning
+-	Software Development
+-	Embedded Systems
 
 ### SKILLS
 -------
-• Programming Languages: C · C# · Python · MATLAB · JavaScript · React.js · HTML · CSS · SQL · LABVIEW
-• Programming Software: Visual Studio · Visual Studio Code · SSMS · MATLAB · Anaconda
-• Embedded Software: MPLAB · Altium Designer · Code Vision 
-• AI Framework: PyTorch · TensorFlow
-• Software Framework: ASP.NET
-• Microcontroller: dsPIC · AVR
+- Programming Languages: C · C# · Python · MATLAB · JavaScript · React.js · HTML · CSS · SQL · LABVIEW
+- Programming Software: Visual Studio · Visual Studio Code · SSMS · MATLAB · Anaconda
+- Embedded Software: MPLAB · Altium Designer · Code Vision 
+- AI Framework: PyTorch · TensorFlow
+- Software Framework: ASP.NET
+- Microcontroller: dsPIC · AVR
