@@ -1,6 +1,6 @@
 # Mohammadreza Zarenejad
 
-### Hi there 👋, My name is Mohammadreza Zarenejad, Electrical Engineer and a deep learning developer and researcher! Feel free to contact me if you have an open position in your team 😄. Always eager to discuss with people on research and development topics. mr.zarenejad1997@gmail.com
+### Hi there 👋, My name is Mohammadreza Zarenejad, Electrical Engineer and a deep learning developer and researcher! Feel free to contact me if you have an open position in your team 😄. Always eager to discuss with people on research and development topics. mr.zarenejad1997@gmail.com [!CV](https://drive.google.com/file/d/11j-ypT5udjfGnt8I85flJ-Sth8FOLWux/view?usp=drive_link)
 
 
 ## SUMMARY
